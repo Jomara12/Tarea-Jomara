@@ -1,0 +1,55 @@
+ody{
+    margin-left:10px;
+	margin-top:20px;
+	margin-right:10;
+	margin-bottom: 5px;
+	background-color:#e8e8e8;
+	font-family: arial;
+}
+#container{
+	width: 70%;
+	margin: 0px auto;
+	
+}
+.one{
+	color:#092327;
+}
+nav{
+	list-style: none;
+	padding: 0;
+	background:#092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+li{
+	display: inline-block;
+	text-align: center;
+}
+nav li a:hover{
+	background: #ef8354;
+}
+
+.clearfix{
+	clear: both;
+}
+#content{
+	float: left;
+	width: 100%;
+}
+aside{
+	float: left;
+}
+footer{
+	color: black;
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+}
+
